@@ -1,0 +1,11 @@
+{
+  "launcher": {
+    "version": "0.1.0",
+    "url": "https://github.comminiksminecraft-afk/danik-rp-updates/releases"
+  },
+  "game": {
+    "version": "0.5.1",
+    "url": "https://github.com/miniksminecraft-afk/danik-rp-updates/releases",
+    "sha256": ""
+  }
+}
